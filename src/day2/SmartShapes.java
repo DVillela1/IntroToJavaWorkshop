@@ -6,6 +6,7 @@ public class SmartShapes {
 	
     public static void main(String[] args) throws Exception {
         // 1. Make a new Robot
+    	
 
 
         // 3. Put the robot's pen down
